@@ -1,0 +1,46 @@
+{
+  "info": {
+    "title": "ɪɴғᴏ",
+    "commands": [".help", ".rules", ".ip", ".tutorial", ".faq", ".profile", ".leaderboard"]
+  },
+  "server": {
+    "title": "sᴇʀᴠᴇʀ",
+    "commands": [".event", ".jadwalboss", ".report", ".saran"]
+  },
+  "produk": {
+    "title": "ᴘʀᴏᴅᴜᴋ",
+    "commands": [".listrank", ".listkey", ".listitems"]
+  },
+  "grup": {
+    "title": "ɢʀᴜᴘ",
+    "commands": [".intro", ".profile", ".level", ".leaderboard", ".limit"]
+  },
+  "search": {
+    "title": "sᴇᴀʀᴄʜ",
+    "commands": [".play", ".yts", ".ttsearch", ".mcpedl", ".lyrics"]
+  },
+  "download": {
+    "title": "ᴅᴏᴡɴʟᴏᴀᴅ",
+    "commands": [".aio", ".tt", ".mediafire", ".sfile", ".ytmp3", ".ytmp4", ".spotify"]
+  },
+  "tools": {
+    "title": "ᴛᴏᴏʟs",
+    "commands": [".rvocal", ".shorturl", ".upscale"]
+  },
+  "maker": {
+    "title": "ᴍᴀᴋᴇʀ",
+    "commands": [".brat", ".sticker", ".hd", ".removebg", ".blurface"]
+  },
+  "ai": {
+    "title": "ᴀɪ",
+    "commands": [".ai", ".copilot", ".perplexity", ".kuroneko", ".nanobanana", ".aiart", ".tts", ".bypass"]
+  },
+  "fun": {
+    "title": "ғᴜɴ",
+    "commands": [".quotesanime", ".ba", ".cekgay", ".cekdosa", ".cekkhodam", ".cekpahala", ".siapasuami", ".siapaistri", ".mancing", ".tebakkata"]
+  },
+  "owner": {
+    "title": "ᴏᴡɴᴇʀ",
+    "commands": [".setgroup", ".setevent", ".welcome", ".intro", ".antilink", ".antitoxic", ".antispam", ".antisw", ".kick", ".warn", ".setprem"]
+  }
+}

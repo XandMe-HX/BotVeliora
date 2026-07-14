@@ -1,0 +1,14 @@
+{
+  "aio": [
+    "https://anabot.my.id/api/download/aio"
+  ],
+  "play": [
+    "https://api.danzy.web.id/api/search/play"
+  ],
+  "welcome": [
+    "https://anabot.my.id/api/canvas/onePiece"
+  ],
+  "tebakkata": [
+    "https://anabot.my.id/api/games/fun/tebakkata"
+  ]
+}

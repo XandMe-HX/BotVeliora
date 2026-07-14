@@ -1,0 +1,18 @@
+{
+  "member": {
+    "info": 10,
+    "server": 10,
+    "produk": 10,
+    "grup": 10,
+    "search": 10,
+    "download": 10,
+    "maker": 10,
+    "fun": 5,
+    "quotesanime": 60,
+    "ba": 60,
+    "default": 10
+  },
+  "admin": {
+    "default": 3
+  }
+}

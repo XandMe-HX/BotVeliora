@@ -1,0 +1,3 @@
+{
+  "content": "📖 *PANDUAN PENGGUNAAN BOT*\n\nSelamat datang di Veliora Bot! Bot ini dirancang untuk membantu komunitas Veliora Gardens.\n\n*Cara Dasar:*\n1. Gunakan awalan (prefix) `.` sebelum command.\n2. Contoh: `.menu`, `.info`, `.help`\n\n*Informasi Penting:*\n- Bot ini mendukung fitur AI, Moderasi Grup, dan Download.\n- Beberapa fitur memiliki batas penggunaan harian (Limit) dan waktu tunggu (Cooldown).\n- Ketik `.limit` untuk melihat sisa limit Anda.\n\n*Pertanyaan Umum:*\nJika Anda bingung, Anda bisa mengetik `.faq` untuk melihat daftar pertanyaan yang sering diajukan, atau ketik `.tutorial` untuk panduan bermain di server Veliora Gardens."
+}

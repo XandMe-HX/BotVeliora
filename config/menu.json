@@ -1,0 +1,17 @@
+{
+  "greeting": "Halo, %name%",
+  "commands": {
+    "info": ".info",
+    "server": ".server",
+    "produk": ".produk",
+    "grup": ".grup",
+    "search": ".search",
+    "download": ".download",
+    "tools": ".tools",
+    "maker": ".maker",
+    "ai": ".ai",
+    "fun": ".fun",
+    "owner": ".owner"
+  },
+  "usage": "📖 Cara Penggunaan\n\n• Ketik salah satu menu di atas.\n• Contoh\n.help\n.rules\n.ai Halo"
+}

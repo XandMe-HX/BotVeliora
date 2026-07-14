@@ -1,0 +1,4 @@
+[2026-07-14 10:57:43] Executing menu: TypeError: Cannot read properties of undefined (reading 'replace')
+    at Object.execute (D:\BotVeliora\src\commands\member\menu.js:15:43)
+    at async messageHandler (D:\BotVeliora\src\handlers\messageHandler.js:157:9)
+    at async EventEmitter.<anonymous> (D:\BotVeliora\index.js:105:13)
